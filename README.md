@@ -45,10 +45,11 @@ The following dependencies are required for this project:
 
 
 # Readme files for Used classes 
-  - Controller
-  - Entity [https://github.com/Harshak-1744/Spr1ng/blob/main/CrudOperation/src/main/java/com/example/demo/entity/Entity_Readme.md]
-  - Repository
-  - Application Properties
+ 
+  - [Controller](https://github.com/Harshak-1744/Spr1ng/blob/main/CrudOperation/src/main/java/com/example/demo/controller/Controller.md)
+  - [Entity](https://github.com/Harshak-1744/Spr1ng/blob/main/CrudOperation/src/main/java/com/example/demo/entity/Entity_Readme.md)
+  - [Repository](https://github.com/Harshak-1744/Spr1ng/blob/main/CrudOperation/src/main/java/com/example/demo/repository/Repository.md)
+  - [Application Properties](https://github.com/Harshak-1744/Spr1ng/blob/main/CrudOperation/src/main/resources/properties.md)
 
 ## Documentation and Learning Resources
 
