@@ -70,3 +70,23 @@ To understand the issue and its resolution, the following resources can be helpf
 ![Project_Work_Flow](project-flow.jpg)
 
 
+## How to Run the Project
+
+To run the project, follow these steps:
+
+1. **Database Setup:** Ensure you have a MySQL database server installed and running.
+
+2. **Database Configuration:** Open the `application.properties` file and update the MySQL database connection configuration with your own database credentials and connection details.
+
+3. **Package Structure:** Create the necessary packages for the project. Create the following packages: `entity`, `controller`, and `repository`. Inside each package, create the required classes and interfaces specific to that package.
+
+4. **Run the Application:** Run the application using your preferred Integrated Development Environment (IDE) or by executing the main class.
+
+5. **Access the Application:** Access the application through the provided endpoints. You can use tools like **Postman**  to test the APIs and interact with the application.
+
+Ensure that you have the MySQL database server properly set up, and make sure to update the database configuration in the `application.properties` file with your own credentials.
+
+By following these steps, you will be able to run the project and interact with it through the provided endpoints.
+
+
+
