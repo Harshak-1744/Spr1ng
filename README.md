@@ -6,15 +6,15 @@ This project demonstrates CRUD (Create, Read, Update, Delete) operations using S
 
 
 ## Technologies:
-- Java: The primary programming language used for developing the application.
-- Spring Boot: A Java framework used for creating standalone, production-grade Spring-based applications.
-- MySQL: A popular relational database management system used for storing and retrieving data.
+- **Java**: The primary programming language used for developing the application.
+- **Spring Boot**: A Java framework used for creating standalone, production-grade Spring-based applications.
+- **MySQL**: A popular relational database management system used for storing and retrieving data.
 
   
 ## Tools:
-- Spring Tool Suite (STS) or any preferred Java IDE: Used for writing, debugging, and running the Java code.
-- MySQL Workbench or any preferred MySQL client: Used for managing the MySQL database, creating tables, and executing SQL queries.
-- Postman: An API development and testing tool used for testing RESTful APIs and interacting with web services.
+- **Spring Tool Suite (STS)** or any preferred Java IDE: Used for writing, debugging, and running the Java code.
+- **MySQL Workbench** or any preferred MySQL client: Used for managing the MySQL database, creating tables, and executing SQL queries.
+- **Postman**: An API development and testing tool used for testing RESTful APIs and interacting with web services.
 
 
 ## Dependencies:
