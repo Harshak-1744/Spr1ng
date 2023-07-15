@@ -1,1 +1,0 @@
-INDEX VERSION 1.134+F:\java\spr1ng\bootjpa\.metadata\.plugins\org.eclipse.jdt.core
