@@ -1,4 +1,4 @@
-**application.properties:**
+# **Application.properties**
 
 ```properties
 spring.datasource.url=jdbc:mysql://localhost:3306/"DataBase_name"
