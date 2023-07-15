@@ -46,7 +46,7 @@ The following dependencies are required for this project:
 
 # Readme files for Used classes 
   - Controller
-  - Entity
+  - Entity [https://github.com/Harshak-1744/Spr1ng/blob/main/CrudOperation/src/main/java/com/example/demo/entity/Entity_Readme.md]
   - Repository
   - Application Properties
 
