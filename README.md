@@ -4,17 +4,18 @@
 
 This project demonstrates CRUD (Create, Read, Update, Delete) operations using Spring Boot, a popular Java framework for building web applications. CRUD operations are the basic operations performed on data in most software applications.
 
-Based on the information provided, here are the technologies, tools, and dependencies used in the project:
 
 ## Technologies:
 - Java: The primary programming language used for developing the application.
 - Spring Boot: A Java framework used for creating standalone, production-grade Spring-based applications.
 - MySQL: A popular relational database management system used for storing and retrieving data.
-- Postman: An API development and testing tool used for testing RESTful APIs and interacting with web services.
 
+  
 ## Tools:
 - Spring Tool Suite (STS) or any preferred Java IDE: Used for writing, debugging, and running the Java code.
 - MySQL Workbench or any preferred MySQL client: Used for managing the MySQL database, creating tables, and executing SQL queries.
+- Postman: An API development and testing tool used for testing RESTful APIs and interacting with web services.
+
 
 ## Dependencies:
 The project's dependencies are managed using Maven, a popular build and dependency management tool for Java projects. The dependencies listed in the `pom.xml` file include:
@@ -30,7 +31,8 @@ It's important to ensure that you have the necessary JDK, IDE, and database tool
 
 Feel free to customize this list with any additional technologies, tools, or dependencies specific to your project.
 
-## Dependencies
+
+## Break-Down of Dependencies
 
 The following dependencies are required for this project:
 
@@ -41,16 +43,6 @@ The following dependencies are required for this project:
 - **mysql-connector-java**: The MySQL JDBC driver that enables your application to connect and interact with the MySQL database.
 
 - **spring-boot-starter-test**: Provides the necessary dependencies for testing your Spring Boot application, including unit tests and integration tests.
-
-## How to Run the Project
-
-1. Make sure you have a MySQL database server installed and running.
-
-2. Update the MySQL database connection configuration in the `application.properties` file with your database credentials and connection details.
-
-3. Run the application using your preferred IDE or by executing the main class.
-
-4. Access the application through the provided endpoints or use tools like Postman to test the APIs.
 
 
 ## Documentation and Learning Resources
