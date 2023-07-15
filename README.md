@@ -29,7 +29,6 @@ Please note that the actual versions of the dependencies may vary depending on t
 
 It's important to ensure that you have the necessary JDK, IDE, and database tools installed and configured properly to work with the project.
 
-Feel free to customize this list with any additional technologies, tools, or dependencies specific to your project.
 
 
 ## Break-Down of Dependencies
@@ -44,6 +43,12 @@ The following dependencies are required for this project:
 
 - **spring-boot-starter-test**: Provides the necessary dependencies for testing your Spring Boot application, including unit tests and integration tests.
 
+
+# Readme files for Used classes 
+  - Controller
+  - Entity
+  - Repository
+  - Application Properties
 
 ## Documentation and Learning Resources
 
